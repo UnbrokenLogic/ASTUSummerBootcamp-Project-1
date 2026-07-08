@@ -11,7 +11,7 @@ A responsive solution to the **Social Proof Section** challenge from Frontend Me
   * [The Challenge](#-the-challenge)
   * [Features](#-features)
   * [Screenshot](#-screenshot)
-  * [Links](#-links)
+  * [Live Demo](#-live-demo)
 * [Project Structure](#-project-structure)
 * [Built With](#-built-with)
 * [Responsive Design](#-responsive-design)
@@ -64,19 +64,17 @@ Users should be able to:
 
 ## 📷 Screenshot
 
-> Replace this placeholder with a screenshot of your completed project.
+![Frontend-Mentor-Social-Proof-Section-Solution.png](https://github.com/UnbrokenLogic/ASTUSummerBootcamp-Project-1/blob/main/screenshot/Frontend%20Mentor%20-%20Social%20Proof%20Section%20Solution.png)
 
 ```text
-screenshot.jpg
+Frontend Mentor - Social Proof Section Solution.png
 ```
 
 ---
 
-## 🔗 Links
+## 🌐 Live Demo
 
-**Solution URL:** Add your Frontend Mentor solution here
-
-**Live Site:** Add your deployed website here
+👉 [Live Demo Link](https://unbrokenlogic.github.io/ASTUSummerBootcamp-Project-1/)
 
 ---
 
@@ -96,9 +94,9 @@ screenshot.jpg
 │   ├── image-colton.jpg
 │   ├── image-irene.jpg
 │   └── image-anne.jpg
-├── screenshot.jpg
-├── README.md
-└── .gitignore
+├── screenshot/
+    └── Frontend Mentor - Social Proof Section Solution.png
+└── README.md
 ```
 
 ---
@@ -210,14 +208,10 @@ Possible enhancements include:
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone [https://github.com/unbrokenlogic/ASTUSummerBootcamp-Project-1.git](https://github.com/unbrokenlogic/ASTUSummerBootcamp-Project-1.git)
 ```
 
 Navigate into the project folder:
-
-```bash
-cd social-proof-section
-```
 
 Open `index.html` in your preferred web browser.
 
@@ -227,10 +221,10 @@ No installation or build tools are required.
 
 # 👤 Author
 
-**Name:** Your Name
+**Name:** Suleyman Dawud
 
-* Frontend Mentor: https://www.frontendmentor.io/profile/yourusername
-* GitHub: https://github.com/yourusername
+* Frontend Mentor: https://www.frontendmentor.io/profile/UnbrokenLogic
+* GitHub: https://github.com/UnbrokenLogic
 
 ---
 
