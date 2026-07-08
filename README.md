@@ -208,7 +208,7 @@ Possible enhancements include:
 Clone the repository:
 
 ```bash
-git clone [https://github.com/unbrokenlogic/ASTUSummerBootcamp-Project-1.git](https://github.com/unbrokenlogic/ASTUSummerBootcamp-Project-1.git)
+git clone https://github.com/unbrokenlogic/ASTUSummerBootcamp-Project-1.git
 ```
 
 Navigate into the project folder:
