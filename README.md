@@ -18,7 +18,7 @@ A responsive solution to the **Social Proof Section** challenge from Frontend Me
 * [Key Concepts Practiced](#-key-concepts-practiced)
 * [What I Learned](#-what-i-learned)
 * [Future Improvements](#-future-improvements)
-* [Getting Started](#getting-started)
+* [Getting Started](#-getting-started)
 * [Author](#-author)
 * [Acknowledgments](#-acknowledgments)
 
