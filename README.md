@@ -18,7 +18,7 @@ A responsive solution to the **Social Proof Section** challenge from Frontend Me
 * [Key Concepts Practiced](#-key-concepts-practiced)
 * [What I Learned](#-what-i-learned)
 * [Future Improvements](#-future-improvements)
-* [Getting Started](#-getting-started)
+* [Getting Started](#getting-started)
 * [Author](#-author)
 * [Acknowledgments](#-acknowledgments)
 
@@ -95,7 +95,7 @@ Frontend Mentor - Social Proof Section Solution.png
 │   ├── image-irene.jpg
 │   └── image-anne.jpg
 ├── screenshot/
-    └── Frontend Mentor - Social Proof Section Solution.png
+│   └── Frontend Mentor - Social Proof Section Solution.png
 └── README.md
 ```
 
@@ -203,7 +203,7 @@ Possible enhancements include:
 
 ---
 
-# ▶️ Getting Started
+# <a id="getting-started"></a>▶️ Getting Started
 
 Clone the repository:
 
